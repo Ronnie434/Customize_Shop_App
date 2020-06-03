@@ -1,6 +1,6 @@
 # React Native Customize_Shop_App
 
-This is a simple Shop_App developed with React Native and integrated with Rave React Native SDK for payment collection.
+This is a simple Shop_App developed with React Native and integrated with Rave React Native SDK for payment collection and connected with google's firebase to use database, storage and authentication features.
 
 ## Table of contents
 
